@@ -3,7 +3,7 @@
 Este proyecto presenta el análisis detallado de un incidente de seguridad real donde una empresa multimedia sufrió un ataque de denegación de servicio.
 
 ## 📝 Resumen de la Incidencia
-* [cite_start]**Tipo de ataque:** Denegación de Servicio (DoS) mediante inundación de pings ICMP[cite: 3, 27].
+* **Tipo de ataque:** Denegación de Servicio (DoS) mediante inundación de pings ICMP[cite: 3, 27].
 * [cite_start]**Duración:** 2 horas[cite: 4, 12].
 * [cite_start]**Impacto:** Los servicios críticos y no críticos quedaron fuera de línea, afectando procesos de diseño web y marketing[cite: 8, 31, 35].
 * [cite_start]**Causa Raíz:** Cortafuegos mal configurado sin límites de velocidad (rate limiting)[cite: 6, 7].
